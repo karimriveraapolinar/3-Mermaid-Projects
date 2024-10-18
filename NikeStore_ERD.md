@@ -36,7 +36,7 @@ erDiagram
     PRODUCT ||--o{ SALE : includes
     PRODUCT ||--o{ INVENTORY : has
 ```
-Documentation
+## Documentation
 1. Product
 Description: Represents the shoes available for sale in the store.
 Attributes:

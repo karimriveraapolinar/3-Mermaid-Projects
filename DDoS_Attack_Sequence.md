@@ -16,7 +16,7 @@
     Firewall->>BotNet: Drop packets from blocked IPs
     WebServer-->>Attacker: Service unavailable (if blocked)
 ```
-Documentation
+## Documentation
 
 Attacker -> BotNet: Command to initiate attack
 

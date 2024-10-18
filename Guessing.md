@@ -17,7 +17,7 @@ flowchart TD
     L -- No --> N[Show Message: Too Low] --> C
 
 ```
-Documentation:
+## Documentation:
 
 Start: The game begins, initializing the process.
 
